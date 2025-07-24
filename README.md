@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luan Quaresma de Faria, tenho 29 anos e sou natural de São Paulo, capital. Concluí o curso de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC-SP e a formação Full Stack pela Rocketseat. Trabalhei por 10 anos no varejo e migrei para a área de tecnologia por pura paixão, para realizar meu sonho de me tornar desenvolvedor de software.
+Me chamo Luan Quaresma de Faria, tenho 29 anos e sou natural de São Paulo, capital. Concluí o curso de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC-SP e a formação Full Stack pela Rocketseat. Trabalhei por 10 anos no varejo e migrei para a área de tecnologia por pura paixão, atualmente sou professor do ensino médio tecnico no estado de São Paulo.
 
 <p align="left">
     <a href="https://github.com/LuanQuaresma?tab=repositories">
